@@ -1,16 +1,15 @@
 ---?video=https://dlmultimedia.esa.int/download/public/videos/2015/04/008/orig-1504_008_AR_EN.mp4
 @title[theia2r presentation, 2018-11-08]
 
-theia2r, outil R à l'usage des data CNES
+## theia2r, outil R à l'usage des data CNES
 
 @snap[north-west]
-![](https://raw.githubusercontent.com/pobsteta/theia2r_presentation/master/assets/img/logo_v2.png)
 <h3><span style="color:white;">Pascal Obstétar</span></h3>
 <h4><span style="color:white;">2018-11-08</span></h4>
 @snapend 
 
 
----?image=https://raw.githubusercontent.com/pobsteta/theia2r_presentation/master/assets/img/Colour_vision_for_Copernicus.jpg&size=cover&opacity=50
+---?image=https://raw.githubusercontent.com/pobsteta/theia2r_presentation/master/imgages/Colour_vision_for_Copernicus.jpg&size=cover&opacity=50
 
 ## Sentinel data
 - le [nom des niveaux](http://www.cesbio.ups-tlse.fr/multitemp/?p=2766) de produits ?
