@@ -18,28 +18,28 @@
 
 ---
 ## theia2r
-- Interface web de sélection des serveurs image Sentinel
+- Interface web de sélection des serveurs images
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/theia01.png)
 
 ---
-## theia2r
-- Interface web de sélection des serveurs image Sentinel
+- Sélection spatio-temporelle des images
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/theia02.png)
 
 ---
-## theia2r
-- Interface web de sélection des serveurs image Sentinel
+- Options de sélection (couverture nuageuse, masque de saisie, résolution...)
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/theia03.png)
 
 ---
-## theia2r
-- Interface web de sélection des serveurs image Sentinel
+- Calcul de indices et des données d'entrée (NDVI, TCI...)
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/theia04.png)
 
 ---
-## theia2r
-- Résultat FD CHAUX (39)
+- Résultat NDVI sur la FD CHAUX (39)
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/ndvi.png)
+
+---
+- Résultat arbres scolytés entre le 11/07/2018 et 27/09/2018
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/scolyte.png)
 
 
 ---?video=https://dlmultimedia.esa.int/download/public/videos/2014/10/038/orig-1410_038_AR_EN.mp4
