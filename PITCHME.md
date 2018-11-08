@@ -9,7 +9,7 @@
 @snapend 
 
 
----?image=https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2015/02/colour_vision_for_copernicus/15250391-1-eng-GB/Colour_vision_for_Copernicus.jpg&size=cover&opacity=50
+---?image=assets/img/logo_v2.png&size=cover&opacity=50
 
 @title[Sentienl data]
 ## Sentinel data
