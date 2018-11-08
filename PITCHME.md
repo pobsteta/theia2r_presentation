@@ -9,7 +9,7 @@
 @snapend 
 
 
----?image=https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2015/02/colour_vision_for_copernicus/15250391-1-eng-GB/Colour_vision_for_Copernicus.jpg&opacity=50&size=cover
+---?image=https://github.com/pobsteta/theia2r_presentation/raw/master/images/ndvi.png&opacity=50&size=cover
 @title[Sentienl data]
 ## Sentinel data
 - Le [nom des niveaux](http://www.cesbio.ups-tlse.fr/multitemp/?p=2766) de produits ?
@@ -45,7 +45,6 @@
 ---
 - Résultat arbres scolytés entre le 11/07/2018 et 27/09/2018
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/scolyte02.png)
-
 
 ---?video=https://dlmultimedia.esa.int/download/public/videos/2014/10/038/orig-1410_038_AR_EN.mp4
 
