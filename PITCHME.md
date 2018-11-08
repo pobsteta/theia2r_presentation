@@ -9,8 +9,7 @@
 @snapend 
 
 
----?image=assets/img/logo_v2.png&size=cover&opacity=50%
-
+---
 @title[Sentienl data]
 ## Sentinel data
 - Le [nom des niveaux](http://www.cesbio.ups-tlse.fr/multitemp/?p=2766) de produits ?
