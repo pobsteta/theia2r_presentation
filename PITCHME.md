@@ -9,7 +9,7 @@
 @snapend 
 
 
----?image=https://github.com/pobsteta/theia2r_presentation/raw/master/images/ndvi.png&size=cover
+---?image=https://github.com/pobsteta/theia2r_presentation/raw/master/images/ndvi.png&opacity=50
 @title[Sentienl data]
 ## Sentinel data
 - Le [nom des niveaux](http://www.cesbio.ups-tlse.fr/multitemp/?p=2766) de produits ?
