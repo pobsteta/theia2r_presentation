@@ -2,7 +2,7 @@
 @title[theia2r presentation, 2018-11-08]
 
 @snap[south-east]
-<h1>@color[white](@size[150%](<span style="vertical-align:top;font-size:90%;font-weight:normal;text-transform:lowercase;">theia</span><span style="vertical-align:baseline;font-size:115%;font-weight:bolder;">2</span><span style="vertical-align:baseline;font-size:90%;font-weight:bold;text-transform:lowercase;">r</span>:) <br/>Outil **R** <br/>pour utiliser les data <br/>des serveurs CNES )</h1>
+<h1>@color[white](@size[100%](<span style="vertical-align:top;font-size:90%;font-weight:normal;text-transform:lowercase;">theia</span><span style="vertical-align:baseline;font-size:115%;font-weight:bolder;">2</span><span style="vertical-align:baseline;font-size:90%;font-weight:bold;text-transform:lowercase;">r</span>:) <br/>Outil **R** <br/>pour utiliser les data <br/>des serveurs CNES )</h1>
 @snapend
 
 #### Utilisation des images SENTINEL pour le suivi des impacts climatiques
