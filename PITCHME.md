@@ -9,7 +9,7 @@
 @snapend 
 
 
----?image=assets/img/logo_v2.png&size=cover&opacity=50
+---?image=assets/img/logo_v2.png&size=cover&opacity=50%
 
 @title[Sentienl data]
 ## Sentinel data
