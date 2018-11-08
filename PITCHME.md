@@ -1,8 +1,7 @@
 ---?video=https://dlmultimedia.esa.int/download/public/videos/2015/04/008/orig-1504_008_AR_EN.mp4
 @title[theia2r presentation, 2018-11-08]
 
-## 
-<h1>@color[white](@size[150%](theia2r, outil R à l'usage des data CNES)</h1>
+@color[white](@size[150%](theia2r, outil R à l'usage des data CNES)
 
 @snap[north-west]
 <h3><span style="color:white;">Pascal Obstétar</span></h3>
