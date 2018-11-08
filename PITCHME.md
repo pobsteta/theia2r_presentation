@@ -18,7 +18,28 @@
 
 ---
 ## theia2r
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/theia01.png&opacity=50)
+- Interface web de sélection des serveurs image Sentinel
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/theia01.png)
+
+---
+## theia2r
+- Interface web de sélection des serveurs image Sentinel
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/theia02.png)
+
+---
+## theia2r
+- Interface web de sélection des serveurs image Sentinel
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/theia03.png)
+
+---
+## theia2r
+- Interface web de sélection des serveurs image Sentinel
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/theia04.png)
+
+---
+## theia2r
+- Résultat FD CHAUX (39)
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/ndvi.png)
 
 
 ---?video=https://dlmultimedia.esa.int/download/public/videos/2014/10/038/orig-1410_038_AR_EN.mp4
