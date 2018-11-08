@@ -9,7 +9,7 @@
 @snapend 
 
 
----?image=https://github.com/pobsteta/theia2r_presentation/raw/master/images/Colour_vision_for_Copernicus.jpg&size=cover&opacity=50
+---?image=https://raw.githubusercontent.com/pobsteta/theia2r_presentation/master/images/Colour_vision_for_Copernicus.jpg&size=cover&opacity=50
 
 ## Sentinel data
 - le [nom des niveaux](http://www.cesbio.ups-tlse.fr/multitemp/?p=2766) de produits ?
