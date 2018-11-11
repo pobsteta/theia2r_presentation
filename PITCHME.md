@@ -20,12 +20,6 @@ Note:
 - test de notes
 
 ---
-## Test
-- Test
-![Test](https://github.com/pobsteta/theia2r_presentation/raw/master/images/Copernicus.png)
-
-
----
 ## theia2r
 - Interface web de sélection des serveurs images
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/theia01.png)
