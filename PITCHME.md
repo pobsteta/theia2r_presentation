@@ -19,6 +19,11 @@
 Note:
 - test de notes
 
+---
+## Test
+- Test
+![Test](https://github.com/pobsteta/theia2r_presentation/raw/master/images/Copernicus.png&opacity=50)
+
 
 ---
 ## theia2r
