@@ -5,7 +5,7 @@ logo-position : top-right
 background: assets/img/Copernicus.png
 background-size : auto 180%
 slide-number : true
-transition: [zoom-in fade-out]
+transition: zoom-in fade-out
 theme-override : assets/css/PITCHME.css
 footnote : "<strong><a style='text-decoration:none;' href='https://github.com/pobsteta/theia2r'>theia2r</a></strong>: Outil R et data CNES. Pascal Obstétar, 2018-11-08. <a style='text-decoration:none;' href='https://creativecommons.org/licenses/by-sa/4.0'>CC BY-SA 4.0</a>"
 published : true
