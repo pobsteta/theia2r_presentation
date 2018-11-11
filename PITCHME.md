@@ -11,7 +11,7 @@
 
 ---
 @title[Sentienl data]
-@transition[zoom-in slide-out]
+@transition[slide-in fade-out]
 ## Sentinel data
 - Le [nom des niveaux](http://www.cesbio.ups-tlse.fr/multitemp/?p=2766) de produits ?
 - 12 [bandes spectrales](https://sentinel.esa.int/web/sentinel/user-guides/sentinel-2-msi/resolutions/radiometric) à 10, 20 ou 60 mètres de [résolution](https://sentinel.esa.int/web/sentinel/user-guides/sentinel-2-msi/resolutions/spatial) :
@@ -21,15 +21,18 @@ Note:
 - test de notes
 
 ---
+@transition[fade-in convex-out]
 ## theia2r
 - Interface web de sélection des serveurs images
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/theia01.png)
 
 ---
+@transition[convex-in concave-out]
 - Sélection spatio-temporelle des images
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/theia02.png)
 
 ---
+@transition[concave-in zoom-out]
 - Options de sélection (couverture nuageuse, masque de saisie, résolution...)
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/theia03.png)
 
