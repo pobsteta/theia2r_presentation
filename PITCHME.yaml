@@ -6,4 +6,4 @@ slide-number : true
 theme-override : assets/css/PITCHME.css
 footnote : "<strong><a style='text-decoration:none;' href='https://github.com/pobsteta/theia2r'>theia2r</a></strong>: Outil R et data CNES. Pascal Obstétar, 2018-11-08. <a style='text-decoration:none;' href='https://creativecommons.org/licenses/by-sa/4.0'>CC BY-SA 4.0</a>"
 published : true
-background: https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2015/02/colour_vision_for_copernicus/15250391-1-eng-GB/Colour_vision_for_Copernicus.jpg&opacity=0.5
+background: assets/img/Colour_vision_for_Copernicus.jpg
