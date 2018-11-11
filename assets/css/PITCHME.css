@@ -25,7 +25,7 @@
   box-shadow: none;
 }
 
-.body{
+.reveal .body{
     background-attachment: fixed;
     background-image: url(https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2015/02/colour_vision_for_copernicus/15250391-1-eng-GB/Colour_vision_for_Copernicus.jpg);
     display: block;
