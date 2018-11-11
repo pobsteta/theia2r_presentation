@@ -11,6 +11,7 @@
 
 ---
 @title[Sentienl data]
+@transition[zoom-in fade-out]
 ## Sentinel data
 - Le [nom des niveaux](http://www.cesbio.ups-tlse.fr/multitemp/?p=2766) de produits ?
 - 12 [bandes spectrales](https://sentinel.esa.int/web/sentinel/user-guides/sentinel-2-msi/resolutions/radiometric) à 10, 20 ou 60 mètres de [résolution](https://sentinel.esa.int/web/sentinel/user-guides/sentinel-2-msi/resolutions/spatial) :
