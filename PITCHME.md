@@ -37,18 +37,22 @@ Note:
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/theia03.png)
 
 ---
+@transition[fade-in convex-out]
 - Calcul de indices et des données d'entrée (NDVI, TCI...)
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/theia04.png)
 
 ---
+@transition[fade-in convex-out]
 - Résultat NDVI sur la FD CHAUX (39)
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/ndvi.png)
 
 ---
+@transition[fade-in convex-out]
 - Résultat arbres scolytés entre le 11/07/2018 et 27/09/2018
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/scolyte01.png)
 
 ---
+@transition[fade-in convex-out]
 - Résultat arbres scolytés entre le 11/07/2018 et 27/09/2018
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/scolyte02.png)
 
