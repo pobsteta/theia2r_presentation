@@ -57,5 +57,4 @@ Note:
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/scolyte02.png)
 
 ---?video=https://dlmultimedia.esa.int/download/public/videos/2014/10/038/orig-1410_038_AR_EN.mp4
-
 ## @color[white](Merci de votre attention)
