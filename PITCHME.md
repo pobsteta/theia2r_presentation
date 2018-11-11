@@ -22,7 +22,7 @@ Note:
 ---
 ## Test
 - Test
-![Test](https://github.com/pobsteta/theia2r_presentation/raw/master/images/Copernicus.png&opacity=50)
+![Test](https://github.com/pobsteta/theia2r_presentation/raw/master/images/Copernicus.png)
 
 
 ---
