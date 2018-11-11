@@ -2,7 +2,7 @@ theme : beige
 layout : center
 logo : assets/img/logo_v2.png
 logo-position : top-right
-background: assets/img/Colour_vision_for_Copernicus.jpg
+background: assets/img/Copernicus.png
 background-opacity: auto 50%
 slide-number : true
 theme-override : assets/css/PITCHME.css
