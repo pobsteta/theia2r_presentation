@@ -61,19 +61,19 @@ Note:
 @transition[slide-in fade-out]
 ### @color[white](Points positifs)
 - rapidité de calcul ;
-- reactivité des agences ;
+- prise en compte des data en flux ;
+- pas nécessaire de partir de points échantillon ;
 
 ### @color[white](Points de blocage)
-- application complexe ;
-- serveur lent ;
+- application complexe à reprendre (code de Stéphane DUMAS);
+- nécessaire d'avoir un serveur rapide et optimisé ;
 
 ### @color[white](Perspectives)
-- optimisation des mercuriales Tarif/houppier (EA 2019 ?) ;
-- optimisation de la mercriale conversion BSP/BF ;
-- mise en production au niveau national (2019 ?).
+- 1er rendu au 07/12/2018 ;
+- diffusion ?
     
 Note:
-- 8455 réactif, quid des autres agences
+- diffusion ?
 
 ---?video=https://dlmultimedia.esa.int/download/public/videos/2014/10/038/orig-1410_038_AR_EN.mp4
 ## @color[white](Merci de votre attention)
