@@ -60,15 +60,16 @@ Note:
 @title[PSI]
 @transition[slide-in fade-out]
 ### @color[white](Points positifs)
-
 - rapidité de calcul ;
 - reactivité des agences ;
 
 ### @color[white](Points de blocage)
 - application complexe ;
+- serveur lent ;
 
 ### @color[white](Perspectives)
 - optimisation des mercuriales Tarif/houppier (EA 2019 ?) ;
+- optimisation de la mercriale conversion BSP/BF ;
 - mise en production au niveau national (2019 ?).
     
 Note:
