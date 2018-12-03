@@ -59,14 +59,14 @@ Note:
 ---
 @title[PSI]
 @transition[slide-in fade-out]
-## Points +
+### @color[white](Points positifs)
 - rapidité de calcul ;
 - reactivité des agences ;
 
-## Points -
+### @color[white](Points de blocage)
 - application complexe ;
 
-## Perspectives
+### @color[white](Perspectives)
 - optimisation des mercuriales Tarif/houppier (EA 2019 ?) ;
 - mise en production au niveau national (2019 ?).
     
