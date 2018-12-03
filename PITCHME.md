@@ -60,6 +60,7 @@ Note:
 @title[PSI]
 @transition[slide-in fade-out]
 ### @color[white](Points positifs)
+
 - rapidité de calcul ;
 - reactivité des agences ;
 
