@@ -70,6 +70,7 @@ Note:
 
 ### @color[white](Perspectives)
 - 1er rendu au 07/12/2018 ;
+- mettre en place une équipe de dev ;
 - diffusion ?
     
 Note:
