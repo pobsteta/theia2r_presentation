@@ -56,5 +56,22 @@ Note:
 - Résultat arbres scolytés entre le 11/07/2018 et 27/09/2018
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/scolyte02.png)
 
+---
+@title[PSI]
+@transition[slide-in fade-out]
+## Points +
+- rapidité de calcul ;
+- reactivité des agences ;
+
+## Points -
+- application complexe ;
+
+## Perspectives
+- optimisation des mercuriales Tarif/houppier (EA 2019 ?) ;
+- mise en production au niveau national (2019 ?).
+    
+Note:
+- 8455 réactif, quid des autres agences
+
 ---?video=https://dlmultimedia.esa.int/download/public/videos/2014/10/038/orig-1410_038_AR_EN.mp4
 ## @color[white](Merci de votre attention)
