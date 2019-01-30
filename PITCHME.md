@@ -47,6 +47,11 @@ Note:
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes05.png)
 
 ---
+@transition[concave-in zoom-out]
+- Sélection des individus atteints
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes08.png)
+
+---
 @transition[fade-in convex-out]
 - Résultat arbres scolytés SERTIT
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes06.png)
