@@ -22,56 +22,52 @@ Note:
 
 ---
 @transition[fade-in convex-out]
-## theia2r
+## Shiny CNES
 - Interface web de sélection des serveurs images
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/theia01.png)
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes01.png)
 
 ---
 @transition[convex-in concave-out]
 - Sélection spatio-temporelle des images
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/theia02.png)
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes02.png)
 
 ---
 @transition[concave-in zoom-out]
-- Options de sélection (couverture nuageuse, masque de saisie, résolution...)
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/theia03.png)
+- Sélection des indices spectraux
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes03.png)
 
 ---
 @transition[fade-in convex-out]
-- Calcul de indices et des données d'entrée (NDVI, TCI...)
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/theia04.png)
+- Résultat des pré-calculs
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes04.png)
 
 ---
 @transition[fade-in convex-out]
-- Résultat NDVI sur la FD CHAUX (39)
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/ndvi.png)
+- Résultat des prévisions
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes05.png)
 
 ---
 @transition[fade-in convex-out]
-- Résultat arbres scolytés entre le 11/07/2018 et 27/09/2018
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/scolyte01.png)
-
----
-@transition[fade-in convex-out]
-- Résultat arbres scolytés entre le 11/07/2018 et 27/09/2018
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/scolyte02.png)
+- Résultat arbres scolytés SERTIT
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes06.png)
 
 ---
 @title[PSI]
 @transition[slide-in fade-out]
 ### @color[white](Points positifs)
-- rapidité de calcul ;
+- rapidité de calcul amélioré X24 ;
 - prise en compte des data en flux ;
-- pas nécessaire de partir de points échantillon ;
+- pas nécessaire de partir de points échantillon.
 
 ### @color[white](Points de blocage)
-- application complexe à reprendre (code de Stéphane DUMAS);
+- application complexe à reprendre (code de Stéphane DUMAS) ;
 - nécessaire d'avoir un serveur rapide et optimisé ;
+- nécessité d'avoir des flux ouverts (Géoportail BD ORTHO IRC fermé jusuq'au 04/02/2019).
 
 ### @color[white](Perspectives)
-- 1er rendu au 07/12/2018 ;
+- améliorer la rapidité de calcul ;
 - mettre en place une équipe de dev ;
-- diffusion ?
+- améliorer la prévision.
     
 Note:
 - diffusion ?
