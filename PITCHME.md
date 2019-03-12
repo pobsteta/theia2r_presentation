@@ -58,8 +58,13 @@ Note:
 
 ---
 @transition[fade-in convex-out]
-- Processus de calcul
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/poster_scolyte.png)
+- Processus de calcul 1/2
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/poster01.png)
+
+---
+@transition[fade-in zoom-out]
+- Processus de calcul 2/2
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/poster02.png)
 
 ---
 @transition[fade-in zoom-out]
