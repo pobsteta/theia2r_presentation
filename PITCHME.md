@@ -1,7 +1,7 @@
 ---
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 ---?video=https://dlmultimedia.esa.int/download/public/videos/2015/04/008/orig-1504_008_AR_EN.mp4
 @title[CNES presentation, 2019-02-12]
@@ -49,7 +49,7 @@ Note:
 ---
 @transition[fade-in zoom-out]
 - Données d'entrée
-![Distribution des présences/absences de scolytes](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes09.png)
+![Distribution des présences/absences de scolytes](https://github.com/pobsteta/theia2r_presentation/raw/master/images/CIgreen.png)
 
 ---
 @transition[concave-in zoom-out]
