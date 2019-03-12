@@ -6,7 +6,7 @@ output:
 ---?video=https://dlmultimedia.esa.int/download/public/videos/2015/04/008/orig-1504_008_AR_EN.mp4
 @title[CNES presentation, 2019-02-12]
 
-## @color[white](cnes, outil R à l'usage des data CNES)
+## @color[white](shiny-cnes, outil R à l'usage des data CNES)
 
 @snap[north-west]
 <h3><span style="color:white;">Pascal Obstétar</span></h3>
