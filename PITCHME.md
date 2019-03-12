@@ -43,18 +43,28 @@ Note:
 
 ---
 @transition[fade-in convex-out]
-- Résultat des pré-calculs
+- Résultat des pré-traitement
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes04.png)
 
 ---
-@transition[fade-in convex-out]
-- Résultat des prévisions
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes05.png)
+@transition[fade-in zoom-out]
+- Données d'entrée
+![Distribution des présences/absences de scolytes](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes09.png)
 
 ---
 @transition[concave-in zoom-out]
 - Sélection des individus atteints
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes08.png)
+
+---
+@transition[fade-in convex-out]
+- Processus de calcul
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/poster_scolyte.png)
+
+---
+@transition[fade-in zoom-out]
+- Résultat des prévisions
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/pred_scolyte.png)
 
 ---
 @transition[fade-in convex-out]
@@ -64,19 +74,9 @@ Note:
 ---
 @title[PSI]
 @transition[slide-in fade-out]
-### @color[white](Points positifs)
-- rapidité de calcul amélioré X24 ;
-- prise en compte des data en flux ;
-- pas nécessaire de partir de points échantillon.
-
-### @color[white](Points de blocage)
-- application complexe à reprendre (code de Stéphane DUMAS) ;
-- nécessaire d'avoir un serveur rapide et optimisé ;
-- nécessité d'avoir des flux ouverts (Géoportail BD ORTHO IRC fermé jusuq'au 04/02/2019).
-
 ### @color[white](Perspectives)
 - améliorer la rapidité de calcul ;
-- mettre en place une équipe de dev ;
+- disposer d'une plateforme de calcul ;
 - améliorer la prévision.
     
 Note:
