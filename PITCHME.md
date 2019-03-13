@@ -1,8 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
 ---?video=https://dlmultimedia.esa.int/download/public/videos/2015/04/008/orig-1504_008_AR_EN.mp4
 @title[CNES presentation, 2019-02-12]
 
@@ -68,11 +63,16 @@ Note:
 
 ---
 @transition[fade-in zoom-out]
-- Résultat des prévisions
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/pred_scolyte.png)
+- Résultat des prévisions au format raster
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/scolyte_rast.png)
 
 ---
 @transition[fade-in convex-out]
+- Résultat des prévisions au format vecteur (canopée)
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/scolyte_rast.png)
+
+---
+@transition[fade-in zoom-out]
 - Résultat arbres scolytés SERTIT
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes06.png)
 
