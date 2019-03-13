@@ -69,7 +69,7 @@ Note:
 ---
 @transition[fade-in convex-out]
 - Résultat des prévisions au format vecteur (canopée)
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/scolyte_rast.png)
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/scolyte_vect.png)
 
 ---
 @transition[fade-in zoom-out]
