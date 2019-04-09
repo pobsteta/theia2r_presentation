@@ -49,7 +49,7 @@ Note:
 ---
 @transition[concave-in zoom-out]
 - Sélection des individus atteints
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/irc_scolyte.png)
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes09.png)
 
 ---
 @transition[fade-in convex-out]
