@@ -43,7 +43,7 @@ Note:
 
 ---
 @transition[fade-in zoom-in]
-- Résultat des préédictions
+- Résultat de la prédiction
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes2505.png)
 
 ---
