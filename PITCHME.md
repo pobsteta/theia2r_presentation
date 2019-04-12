@@ -42,6 +42,11 @@ Note:
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes2504.png)
 
 ---
+@transition[fade-in zoom-in]
+- Résultat des préédictions
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes2505.png)
+
+---
 @transition[fade-in zoom-out]
 - Données d'entrée
 ![Distribution des présences/absences de scolytes](https://github.com/pobsteta/theia2r_presentation/raw/master/images/CIgreen25.png)
