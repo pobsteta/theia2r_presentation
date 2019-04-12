@@ -1,11 +1,11 @@
 ---?video=https://dlmultimedia.esa.int/download/public/videos/2015/04/008/orig-1504_008_AR_EN.mp4
-@title[CNES presentation, 2019-02-12]
+@title[CNES presentation, 2019-04-15]
 
-## @color[white](shiny-cnes, outil R à l'usage des data CNES)
+## @color[white](shiny-cnes, outil de prédiction)
 
 @snap[north-west]
 <h3><span style="color:white;">Pascal Obstétar</span></h3>
-<h4><span style="color:white;">2018-11-08</span></h4>
+<h4><span style="color:white;">2019-04-15</span></h4>
 @snapend 
 
 
