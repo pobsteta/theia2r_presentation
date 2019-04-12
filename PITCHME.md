@@ -24,12 +24,12 @@ Note:
 @transition[fade-in convex-out]
 ## Shiny CNES
 - Interface web de sélection des serveurs images
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes01.png)
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes2501.png)
 
 ---
 @transition[convex-in concave-out]
 - Sélection spatio-temporelle des images
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes02.png)
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes2502.png)
 
 ---
 @transition[concave-in zoom-out]
@@ -39,12 +39,12 @@ Note:
 ---
 @transition[fade-in convex-out]
 - Résultat des pré-traitement
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes04.png)
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes2504.png)
 
 ---
 @transition[fade-in zoom-out]
 - Données d'entrée
-![Distribution des présences/absences de scolytes](https://github.com/pobsteta/theia2r_presentation/raw/master/images/CIgreen.png)
+![Distribution des présences/absences de scolytes](https://github.com/pobsteta/theia2r_presentation/raw/master/images/CIgreen25.png)
 
 ---
 @transition[concave-in zoom-out]
@@ -64,28 +64,12 @@ Note:
 ---
 @transition[fade-in zoom-out]
 - Résultat des prévisions au format raster
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/scolyte_rast.png)
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/predict_fr25.png)
 
 ---
 @transition[fade-in convex-out]
 - Résultat des prévisions au format vecteur (canopée)
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/scolyte_vect.png)
-
----
-@transition[fade-in zoom-out]
-- Résultat arbres scolytés SERTIT
-![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes06.png)
-
----
-@title[PSI]
-@transition[slide-in fade-out]
-### @color[white](Perspectives)
-- améliorer la rapidité de calcul ;
-- disposer d'une plateforme de calcul ;
-- améliorer la prévision.
-    
-Note:
-- diffusion ?
+![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/predict_fr_vect25.png)
 
 ---?video=https://dlmultimedia.esa.int/download/public/videos/2014/10/038/orig-1410_038_AR_EN.mp4
 ## @color[white](Merci de votre attention)
