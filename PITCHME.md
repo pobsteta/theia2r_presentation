@@ -38,7 +38,7 @@ Note:
 
 ---
 @transition[fade-in convex-out]
-- Résultat des pré-traitement
+- Résultat du pré-traitement
 ![Interface web de sélection des serveurs image Sentinel](https://github.com/pobsteta/theia2r_presentation/raw/master/images/shinycnes2504.png)
 
 ---
